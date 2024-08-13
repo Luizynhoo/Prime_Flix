@@ -8,10 +8,10 @@
 ## WEB SITE
 1- *Tela principal*
 
-![Tela Principal](https://github.com/Luizynhoo/Lab-Solution/blob/main/img/telas/principal.png)
+![Tela Principal](https://github.com/Luizynhoo/Prime_Flix/blob/main/img/Principal.png)
 
-2- *Tela do projeto +Verde*
-![Tela de Ordem de Serviço](https://github.com/Luizynhoo/Lab-Solution/blob/main/img/telas/verde.png)
+2- *Tela informativa dos filmes*
+![Tela informativa dos filmes](https://github.com/Luizynhoo/Prime_Flix/blob/main/img/informativo.png)
 
-3- *Tela de contato*
-![Tela de Contato](https://github.com/Luizynhoo/Lab-Solution/blob/main/img/telas/enviar.png)
+3- *Tela de favoritos*
+![Tela de favoritos](https://github.com/Luizynhoo/Prime_Flix/blob/main/img/meusFilmes.png)
