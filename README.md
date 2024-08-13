@@ -5,6 +5,9 @@
 ## Prime Flix
 <hr/>
 
+## Projeto -> A Prime Flix é um site onde o usuário pode encontrar todos os top 10 filmes que estão hoje no cinema (atualizando sempre) e ter informações sobre esses filmes e se gostar de mais do filme ele pode ser salvo na parte de "meus filmes".
+## Primeiro projeto em React.
+
 ## WEB SITE
 1- *Tela principal*
 
