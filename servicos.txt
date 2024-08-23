@@ -1,0 +1,25 @@
+Utilizando api do https://www.themoviedb.org/settings/api para ter os filmes 
+
+Usando React-router-dom e usando a biblioteca axios para requisições de API
+
+Hook novo que usei =
+useNavigate
+
+Funcionalidades principais:
+Permite navegar para uma rota específica usando código, ao invés de depender apenas de links ou botões.
+Pode usar o método navigate para ir para uma nova página, voltar ou avançar no histórico de navegação.
+Pode ser usado para redirecionar o usuário após uma ação, como o envio bem-sucedido de um formulário.
+
+
+Utilizando a biblioteca React-toastify
+biblioteca para personalizar os alerts
+
+Hospedando pela https://www.netlify.com/
+    npm run build
+    public/_redirects 
+    Escrever isso :
+        /* /index.html 200
+    
+    Terminal:
+        npm i -g netlify-cli
+        netlify deploy   

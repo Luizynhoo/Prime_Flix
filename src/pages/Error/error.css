@@ -1,0 +1,30 @@
+.not-found{
+    width: 100%;
+    /* calculo da altura do header e o tamanho da tela */
+    height: calc(100vh - 60px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+    h1{
+        font-size: 9rem;
+    }
+
+    a{
+        text-decoration: none;
+        background-color: #116fdb;
+        color: #fff;
+        padding: 10px;
+        margin-top: 14px;
+        border-radius: 8px;
+        transition: background-color 0.2s, color 0.2s ease 0.1s; 
+    }
+
+    a:hover{
+        background-color: #bebebe;
+        color: #116feb;
+        font-weight: bold;
+    }
+}
